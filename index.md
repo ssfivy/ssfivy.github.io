@@ -15,5 +15,5 @@ Basically programming with C, compiling it, then using a JTAG programmer to writ
 # Talks
 ## Becoming a tyrant: Implementing secure boot in embedded devices
 Presented at linux.conf.au 2022
-- slides (TBD)
+- [slides]({{ site.url }}/myfiles/lca2022_becoming_a_tyrant-final.pdf)
 - video (TBD)
