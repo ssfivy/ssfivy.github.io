@@ -2,8 +2,15 @@
 title: Irving's public things
 ---
 
-# Me
-Hi, I'm Irving. These are stuff I'd like to share publicly.
+# Hi, I'm Irving.
+
+I like solar car racing and 3D printers.
+
+I am pretty good at conjuring complex incantations in an arcane language, casting it into a spell, then using a magic wand to put it into a piece of silicon that will proceed to being a dead hardware to life.
+
+Basically programming with C, compiling it, then using a JTAG programmer to write it into a chip which will then start working.
+
+(I like Python and Go too!)
 
 # Talks
 ## Becoming a tyrant: Implementing secure boot in embedded devices
